@@ -1,0 +1,15 @@
+endingtextcolor=255, 255, 255
+endingcolorname=white
+endingtext=you cleared this mappack!,thanks for playing waifus!
+playername=score
+hudtextcolor=255, 255, 255
+hudcolorname=white
+hudvisible=true
+hudworldletter=true
+hudoutline=true
+hudsimple=false
+toadtext=thank youA hero!,but our princess is in,another castle!
+peachtext=thank youA my hero!,your quest is over.,peace is paved,with the kingdom saved.,you are a super player!
+steve=true
+levelscreen=1|3|soaked treetops,2|1|crossing the toxic moat,3|4|slippery stronghold,4|1|scorching dunes,1|4|kaizo dungeon,2|2|haunted hoedown,1|1|another adventure begins!!,1|2|wet n' wild,8|4|deadly danger dungeon,13|4|the really final dungeon,2|3|rising dread,13|3|tanks for nothing
+hudhidecollectables=f,f,f,f,f,f,f,f,f,f

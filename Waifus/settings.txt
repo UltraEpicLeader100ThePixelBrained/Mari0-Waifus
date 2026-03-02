@@ -1,0 +1,8 @@
+name=waifus
+author=dat1nekosune
+description=a cute but brutalmappack. are you up to it?
+lives=5
+physics=5
+realtime=t
+continuesublevelmusic=t
+
