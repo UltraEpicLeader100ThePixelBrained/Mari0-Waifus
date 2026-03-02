@@ -1,0 +1,5 @@
+{
+    "actions": [ [ "dialogbox", "did you get those chaos emeralds?", "narrator-kun", "white" ], [ "sleep", "5" ], [ "removedialogbox" ] ],
+    "conditions": [ [ "worldequals", "9" ], [ "levelequals", "1" ], [ "sublevelequals", "main" ] ],
+    "triggers": [ [ "mapload" ] ]
+}
